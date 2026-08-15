@@ -41,7 +41,7 @@ export default function Navbar() {
           {/* Logo */}
           <Link href="/" className="flex items-center gap-1.5 group flex-shrink-0">
             <span className="font-serif text-base sm:text-xl font-bold tracking-tight text-[#0A0A0A] group-hover:text-[#0F766E] transition">
-              LODHI<span className="text-[#0F766E]">.</span><span className = "font-light">ESTATES</span>
+              LODHI<span className="text-[#0F766E]">.</span><span className = "font-medium text-[#6B736B]">ESTATES</span>
             </span>
           </Link>
 
